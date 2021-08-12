@@ -1,6 +1,6 @@
 # Portfolio :sparkles:
 
-To view a demo example, **[click here](https://github.com/azhagusurriya/Portfolio-master/)**
+To view a demo example, **[click here](azhagusurriya.github.io)**
 
 
 
